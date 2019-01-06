@@ -1,0 +1,12 @@
+
+T
+squid:S106$"9Replace this use of System.out or System.err by a logger.(›È²Æüÿÿÿÿ
+_squid:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(ÝõƒÒ
+T
+squid:S106!"9Replace this use of System.out or System.err by a logger.(Î¬µˆúÿÿÿÿ
+csquid:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(áß×µ
+T
+squid:S106&"9Replace this use of System.out or System.err by a logger.(ß¤²ëÿÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÚØ§°ýÿÿÿÿ
+esquid:S00101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ýóø§

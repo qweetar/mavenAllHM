@@ -1,0 +1,22 @@
+
+esquid:S2095-"IUse try-with-resources or close this "PrintWriter" in a "finally" clause.(­“øÿÿÿÿ
+esquid:S2095"IUse try-with-resources or close this "PrintWriter" in a "finally" clause.(ÒÌ©ñıÿÿÿÿ
+dsquid:S2095+"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(êû²ÿÿÿÿÿ
+psquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(™¨‹ê
+dsquid:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(³âÂıÿÿÿÿ
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÿ¾‹
+hsquid:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(á¹Ê’şÿÿÿÿ
+csquid:S2095"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(¾êÑÔ
+_squid:S2095"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(ƒ€Ï
+O
+squid:S106)"9Replace this use of System.out or System.err by a logger.(¶İÓæ
+O
+squid:S106%"9Replace this use of System.out or System.err by a logger.(¶İÓæ
+O
+squid:S1064"9Replace this use of System.out or System.err by a logger.(İû­
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(³ßÒª
+psquid:S2293!"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯’“á
+T
+squid:S1066"9Replace this use of System.out or System.err by a logger.(ß¤²ëÿÿÿÿÿ
+bsquid:S2095,"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(»·×d

@@ -1,0 +1,7 @@
+One day my son Davey-steamboat showed up in my office with my rated 'R' Java tutorial in his hands. 
+He asked me to teach him programming so he could create computer games. 
+At that time I've already written a couple of books on Java and taught multiple classes about computer programming, but all of this was for grownups!
+A search on Amazon could not offer anything but books for dummies, but Davey is not a dummy! 
+After spending hours on Google I found either some poor attempts to create Java courses for kids, or some readerrabbit-style books. 
+Guess what? I decided to write one. 
+To help me understand the mentality of the little people, I decided to ask Davey to become my first kid student.

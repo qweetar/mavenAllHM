@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="mavenHM:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/mavenHM_jar</output-path>
+    <root id="archive" name="mavenHM.jar">
+      <element id="module-output" name="mavenHM" />
+    </root>
+  </artifact>
+</component>
